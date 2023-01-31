@@ -1,0 +1,1 @@
+export const [word,setWord] = useState(words[random_num]);
