@@ -51,6 +51,7 @@ function onChangeHandler(word, e, i, setTry, setI, cleft,wl,setWl) {
 
   else {
     setI(++i);
+      setWl("");
   }
 
 
